@@ -22,7 +22,7 @@ def read_sentence_pairs(file_path):
     return sentence_pairs
 
 # Read the sentence pairs from the file
-sentence_pairs = read_sentence_pairs('3.5v3.5NEU.txt')
+sentence_pairs = read_sentence_pairs('Testdaten ähnlich.txt')
 
 # Initialize lists to store similarity scores
 similarity_scores_model1 = []

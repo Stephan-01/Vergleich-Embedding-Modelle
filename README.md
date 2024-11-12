@@ -16,3 +16,5 @@ Die Satzpaare werden aus der Textdatei eingelesen, wobei jedes Paar durch eine `
 ### 4. Visualisierung der Ergebnisse
 - **Histogramme** zeigen die Verteilung der Ähnlichkeitswerte für beide Modelle an.
 - Ein **Liniendiagramm** visualisiert die Ähnlichkeitswerte für jedes Modell über alle Satzpaare hinweg und erleichtert so den direkten Vergleich.
+
+![Beispielergebnis](Figure_1.png)
